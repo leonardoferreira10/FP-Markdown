@@ -19,4 +19,4 @@ Student name
 
 ![][1]
 
-[1]: ./logo_ipl_header.png
+[1]: ../logo_ipl_header.png
