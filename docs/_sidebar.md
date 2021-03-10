@@ -1,2 +1,2 @@
 * [Home](/)
-* [Sobre](sobre/)
+* [Sobre](sobre)
