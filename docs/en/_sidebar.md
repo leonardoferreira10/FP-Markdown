@@ -1,2 +1,2 @@
-* [Home](en)
-* [About](en/about)
+* [Home](en/)
+* [About](en/about/)
